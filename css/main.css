@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: left;
+  padding: 26px 50px;
+  background-color: #FFFFD1;
+}
+
+p {
+  font-family: 'Hepta Slab', serif;
+  font-size: 24px;
+  line-height: 1.8;
+  color: #464646;
+  text-align: left; 
+}
